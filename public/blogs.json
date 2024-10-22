@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/k31XKQ0/1.jpg",
+    "title": "The Future of Technology",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co.com/fdZ1Q5h/author-Photo1.png",
+    "posted_date": "2024-10-01",
+    "reading_time": 5,
+    "hashtags": ["#technology", "#innovation", "#future"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/41Jnsy8/2.png",
+    "title": "Healthy Living Tips",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/xYc8JwZ/author2.jpg",
+    "posted_date": "2024-10-05",
+    "reading_time": 8,
+    "hashtags": ["#lifestyle", "#wellness", "#health"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/vJxP6Vm/3.png",
+    "title": "How to Succeed in Business",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co.com/S3DqbcG/author3.jpg",
+    "posted_date": "2024-09-28",
+    "reading_time": 7,
+    "hashtags": ["#business", "#entrepreneurship", "#success"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/mv2nbZ1/4.jpg",
+    "title": "Mastering Web Development",
+    "author": "Robert Brown",
+    "author_img": "https://i.ibb.co.com/crBMM84/author4.jpg",
+    "posted_date": "2024-10-10",
+    "reading_time": 6,
+    "hashtags": ["#coding", "#javascript", "#webdevelopment"]
+  }
+]
